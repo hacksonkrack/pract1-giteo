@@ -26,10 +26,10 @@ a{
 h1#redo{
 	/*logitud de h1*/
 	font-size:4em;
-	padding: 15%;
+	padding: 5%;
 	
 	/* esto va asi arriba, derecha, abajo y izquierda */
-	margin: 40px 30%;
+	margin: 40px 36%;
 	background:#171F89; 
 
 	/*bordear*/
