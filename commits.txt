@@ -1,0 +1,17 @@
+commit 2321101616d1345571a341a9405da155a208781a
+Author: Simon Escobar <snescobar25@gmail.com>
+Date:   Sat Mar 26 01:28:23 2016 -0430
+
+    mas estilos
+
+commit 526b630bae41301b58943325a871cbe3adc13038
+Author: Simon Escobar <snescobar25@gmail.com>
+Date:   Fri Mar 25 22:31:10 2016 -0430
+
+    Modifique el css
+
+commit 04effb7d9dd848e8f4d13e91ae022ceb5e513233
+Author: Simon Escobar <snescobar25@gmail.com>
+Date:   Fri Mar 25 22:27:10 2016 -0430
+
+    Esto esta iniciado
